@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.cal-bg-container {
+
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #efe6f5, #d99ffc);
+    box-sizing: border-box;
+
+
+}
+
+.input-label {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.error-msg {
+    color: red;
+    font-size: 15px;
+}
+
+
+
+.ass-Button {
+    background-color: #a81cff;
+    font-family: "Roboto";
+    font-size: 18px;
+    width: 49%;
+    height: 25%;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+
+.cal-result {
+    color: red;
+
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: #ffffff;
+}
+
+.btn {
+    width: 50%;
+    background-image: linear-gradient(to right, #17ead9, #6078ea);
+    color: white;
+    border-radius: 10px;
+}
+
+.ass-section {
+    background-color: transparent;
+    border-radius: 8px;
+}
+
+.fat-section {
+    background-color: transparent;
+    border-radius: 8px;
+}
